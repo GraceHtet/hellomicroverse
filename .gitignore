@@ -1,3 +1,2 @@
-#node_modules
-.github/workflow/linters.yml
-test.md
+ /node_modules
+./test.md
